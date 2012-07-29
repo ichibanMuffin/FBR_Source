@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/weapons/shootar_bullet/shootar_bullet"
+	"$surfaceprop" "weapon"
+}

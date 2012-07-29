@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/weapons/sploder_prop/sploder_prop"
+	"$surfaceprop" "weapon"
+}

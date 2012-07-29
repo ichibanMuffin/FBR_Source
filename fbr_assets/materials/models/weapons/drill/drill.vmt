@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/weapons/drill/drill"
+	"$surfaceprop" "default"
+}

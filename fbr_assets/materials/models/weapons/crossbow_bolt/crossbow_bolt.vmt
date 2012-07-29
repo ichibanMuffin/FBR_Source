@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/weapons/crossbow_bolt/crossbow_bolt"
+	"$surfaceprop" "weapon"
+}

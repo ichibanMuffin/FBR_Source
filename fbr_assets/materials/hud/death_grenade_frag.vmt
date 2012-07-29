@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	// Original shader: BaseTexture
+	"$basetexture" "hud/death_grenade_frag"
+	"$translucent" 1
+	"$alphatest" 1
+	"$ignorez"	1	
+}
