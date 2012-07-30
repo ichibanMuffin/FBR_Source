@@ -41,6 +41,12 @@ local.properties
 *.user
 *.sln.docstates
 
+#custom
+*.tlog
+*.lastbuildstate
+*.vcxproj
+*.sln
+
 # Build results
 [Dd]ebug/
 [Rr]elease/
